@@ -1,0 +1,8 @@
+                                渗透神器Empire
+0x00 安装
+下载地址：Github:https://github.com/EmpireProject/Empire
+不喜欢用命令的同学可以去安装一个GUI界面的，也是国外大牛用php写的一个web界面
+GUI版本下载地址：Github:https://github.com/interference-security/empire-web
+
+github上克隆回来运行./install.sh，傻瓜式安装，只需要输入一个预设的密码就可以了，其他会自动安装。
+
